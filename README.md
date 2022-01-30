@@ -1,3 +1,2 @@
-# About
-This repo contains experiments in code poetry, mostly in javascript for now.   
-Sometimes referencing vue framework. Sometimes actual code you can run :)  
+## Rio's code poetry
+Hi! you've reached my project page where i share some code poetry :)
